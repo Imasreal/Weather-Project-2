@@ -1,0 +1,7 @@
+# Seri Iskandar, Perak, Malaysia
+LATITUDE = 4.3667
+LONGITUDE = 100.9667
+TIMEZONE = "Asia/Kuala_Lumpur"
+DATABASE = "weather.db"
+COLLECTION_INTERVAL_MINUTES = 60
+COLLECTION_DAYS = 3
